@@ -1,3 +1,1 @@
 # MyLeetcodeSolutions
-
-hello leetcode
