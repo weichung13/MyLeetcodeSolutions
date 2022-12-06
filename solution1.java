@@ -46,7 +46,7 @@ import java.util.Map;
 
 /*
 2. HashMap
- Time complexity = O(n) 
+ Time complexity = O(n).
  */
 public class solution1{
     public int[] twoSum(int[] nums, int target) {
