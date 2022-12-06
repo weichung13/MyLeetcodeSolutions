@@ -30,7 +30,7 @@ public class solution2 {
         //Create a new listnode to store the sum 
         ListNode head = new ListNode();
         ListNode curr = head;
-        //Store the carry number
+        //Store the carry number.
         int carry =0;
         while(l1!=null||l2!=null||carry!=0){
             int value1 = 0;
