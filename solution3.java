@@ -32,6 +32,9 @@ import java.util.Map;
  * If there's a duplicate letter clear the map and store the current length of substring to the max.
  */
 
+ /*
+  * Time complexity:O(n)
+  */
 public class solution3{
     public int lengthOfLongestSubstring(String s){
         if (s == null || s.length() <= 1) {
