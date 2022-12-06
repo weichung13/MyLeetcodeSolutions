@@ -43,7 +43,7 @@ public class solution3{
         int count =0;
         for(int i =0;i<s.length();i++){
             if(!map.containsKey(s.charAt(i))){
-                //put "i" because we have to store the index on order to  keep counting from the letter that occurs duplicate.
+                //put "i" because we have to store the index on order to  keep counting from the letter that occurs duplicate
                 map.put(s.charAt(i),i);
                 count++;
             }else{
