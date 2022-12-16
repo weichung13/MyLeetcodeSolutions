@@ -8,3 +8,4 @@ Currently Solved:5
 | 3    | Longest Substring Without Repeating Characters  | Medium     |
 | 11   | 11. Container With Most Water                   | Medium     |
 | 13   | 13. Roman to Integer                            | Easy       |
+| 14   | 14. Longest Common Prefix                       | Easy       |
