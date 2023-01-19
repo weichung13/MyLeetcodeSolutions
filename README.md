@@ -12,3 +12,4 @@ Currently Solved:5
 | 14   | 14. Longest Common Prefix                       | Easy       |
 | 15   | 15. 3Sum                                        | Medium     |
 | 20   | 20. Valid Parentheses                           | Easy       |
+| 21   | 21. Merge Two Sorted Lists                      | Easy       |
