@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Stack;
 
 /**
  * Given a signed 32-bit integer x, return x with its digits reversed. If
