@@ -21,7 +21,7 @@ import java.util.Stack;
  * Input: s = "()[]{}"   ([)]
  * Output: true
  * 
- * Example 3:
+ * Example 3: 
  * 
  * Input: s = "(]"
  * Output: false

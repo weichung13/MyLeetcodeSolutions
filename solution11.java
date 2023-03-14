@@ -32,7 +32,7 @@ public class solution11 {
 }
 */
 
-/* 2.Two pointer Time complexity:O(n)
+/* 2.Two pointer Time complexity:O(n) 
  * 
  * Compare "left" and "right" the smaller one move forward one index 
  */
