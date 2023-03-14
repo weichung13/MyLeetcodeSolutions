@@ -11,6 +11,6 @@ Currently Solved:5
 | 13   | 13. Roman to Integer                            | Easy       |
 | 14   | 14. Longest Common Prefix                       | Easy       |
 | 15   | 15. 3Sum                                        | Medium     |
+| 17   | 17. Letter Combinations of a Phone Number       | Medium     |
 | 20   | 20. Valid Parentheses                           | Easy       |
 | 21   | 21. Merge Two Sorted Lists                      | Easy       |
-| 22   | 22. Generate Parentheses                        | Medium     |
