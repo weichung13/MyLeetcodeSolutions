@@ -32,11 +32,14 @@
  * Note that the five elements can be returned in any order.
  * It does not matter what you leave beyond the returned k (hence they are
  * underscores).
+ * 
+ * Solved with 2 pointer
  */
 public class solution27 {
     public int removeElement(int[] nums, int val) {
         int k = 0;
         for(int i=0;i<nums.length;i++){
+            //which means if nums[i] == val , skip the duplicate val
             if(nums[i]!=val){
                 nums[k] = nums[i];
                 k++;
