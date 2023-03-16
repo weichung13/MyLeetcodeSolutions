@@ -1,5 +1,5 @@
 # MyLeetcodeSolutions
-Currently Solved:14
+Currently Solved:15
 
 | ID   | Title                                           | Difficulty |
 | ---- | ----------------------------------------------- | ---------- |
