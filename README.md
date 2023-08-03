@@ -1,5 +1,5 @@
 # MyLeetcodeSolutions
-Currently Solved:18
+Currently Solved:20
 
 | ID   | Title                                           | Difficulty |
 | ---- | ----------------------------------------------- | ---------- |
@@ -22,3 +22,5 @@ Currently Solved:18
 | 121  | Best Time to Buy and Sell Stock                 | Easy       | 
 | 125  | Valid Palindrome                                | Easy       | 
 | 226  | Invert Binary Tree                              | Easy       |     
+| 242  | Valid Anagram                                   | Easy       |  
+| 704  | Binary Search                                   | Easy       |      
