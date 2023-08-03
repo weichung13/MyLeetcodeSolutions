@@ -1,5 +1,5 @@
 # MyLeetcodeSolutions
-Currently Solved:16
+Currently Solved:17
 
 | ID   | Title                                           | Difficulty |
 | ---- | ----------------------------------------------- | ---------- |
@@ -19,4 +19,5 @@ Currently Solved:16
 | 27   | Remove Element                                  | Easy       |
 | 28   | Find the Index of the First Occurrence in a String | Easy    |
 | 33   | Search in Rotated Sorted Array                  | Medium     |
-| 121  | Best Time to Buy and Sell Stock                 | Easy       |   
+| 121  | Best Time to Buy and Sell Stock                 | Easy       | 
+| 125  | Valid Palindrome                                | Easy       |    
