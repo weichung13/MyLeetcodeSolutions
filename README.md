@@ -1,5 +1,5 @@
 # MyLeetcodeSolutions
-Currently Solved:20
+Currently Solved:21
 
 | ID   | Title                                           | Difficulty |
 | ---- | ----------------------------------------------- | ---------- |
@@ -24,3 +24,4 @@ Currently Solved:20
 | 226  | Invert Binary Tree                              | Easy       |     
 | 242  | Valid Anagram                                   | Easy       |  
 | 704  | Binary Search                                   | Easy       |      
+| 733  | Flood Fill                                      | Easy       |   
