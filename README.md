@@ -1,5 +1,5 @@
 # MyLeetcodeSolutions
-Currently Solved:21
+Currently Solved:22
 
 | ID   | Title                                           | Difficulty |
 | ---- | ----------------------------------------------- | ---------- |
@@ -21,7 +21,8 @@ Currently Solved:21
 | 33   | Search in Rotated Sorted Array                  | Medium     |
 | 121  | Best Time to Buy and Sell Stock                 | Easy       | 
 | 125  | Valid Palindrome                                | Easy       | 
-| 226  | Invert Binary Tree                              | Easy       |     
+| 226  | Invert Binary Tree                              | Easy       |  
+| 235  | Lowest Common Ancestor of a Binary Search Tree  | Medium     |   
 | 242  | Valid Anagram                                   | Easy       |  
 | 704  | Binary Search                                   | Easy       |      
 | 733  | Flood Fill                                      | Easy       |   
