@@ -1,5 +1,5 @@
 # MyLeetcodeSolutions
-Currently Solved:22
+Currently Solved:23
 
 | ID   | Title                                           | Difficulty |
 | ---- | ----------------------------------------------- | ---------- |
@@ -22,6 +22,7 @@ Currently Solved:22
 | 110  | Balanced Binary Tree                            | Easy       |
 | 121  | Best Time to Buy and Sell Stock                 | Easy       | 
 | 125  | Valid Palindrome                                | Easy       | 
+| 141  | Linked List Cycle                               | Easy       |
 | 226  | Invert Binary Tree                              | Easy       |  
 | 235  | Lowest Common Ancestor of a Binary Search Tree  | Medium     |   
 | 242  | Valid Anagram                                   | Easy       |  
