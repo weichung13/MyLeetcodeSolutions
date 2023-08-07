@@ -1,5 +1,5 @@
 # MyLeetcodeSolutions
-Currently Solved:23
+Currently Solved:24
 
 | ID   | Title                                           | Difficulty |
 | ---- | ----------------------------------------------- | ---------- |
@@ -24,6 +24,7 @@ Currently Solved:23
 | 125  | Valid Palindrome                                | Easy       | 
 | 141  | Linked List Cycle                               | Easy       |
 | 226  | Invert Binary Tree                              | Easy       |  
+| 232  | Implement Queue using Stacks                   | Easy       | 
 | 235  | Lowest Common Ancestor of a Binary Search Tree  | Medium     |   
 | 242  | Valid Anagram                                   | Easy       |  
 | 704  | Binary Search                                   | Easy       |      
