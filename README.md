@@ -1,5 +1,5 @@
 # MyLeetcodeSolutions
-Currently Solved:27
+Currently Solved:28
 
 | ID   | Title                                           | Difficulty |
 | ---- | ----------------------------------------------- | ---------- |
@@ -30,5 +30,6 @@ Currently Solved:27
 | 242  | Valid Anagram                                   | Easy       |  
 | 278  | First Bad Version                               | Easy       | 
 | 383  | Ransom Note                                     | Easy       | 
+| 409  | Longest Palindrome                              | Easy       | 
 | 704  | Binary Search                                   | Easy       |      
 | 733  | Flood Fill                                      | Easy       |   
