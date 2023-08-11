@@ -1,5 +1,5 @@
 # MyLeetcodeSolutions
-Currently Solved:30
+Currently Solved:31
 
 | ID   | Title                                           | Difficulty |
 | ---- | ----------------------------------------------- | ---------- |
@@ -24,6 +24,7 @@ Currently Solved:30
 | 121  | Best Time to Buy and Sell Stock                 | Easy       | 
 | 125  | Valid Palindrome                                | Easy       | 
 | 141  | Linked List Cycle                               | Easy       |
+| 206  | Reverse Linked List                             | Easy       |
 | 226  | Invert Binary Tree                              | Easy       |  
 | 232  | Implement Queue using Stacks                    | Easy       | 
 | 235  | Lowest Common Ancestor of a Binary Search Tree  | Medium     |   
