@@ -1,5 +1,5 @@
 # MyLeetcodeSolutions
-Currently Solved:32
+Currently Solved:34
 
 | ID   | Title                                           | Difficulty |
 | ---- | ----------------------------------------------- | ---------- |
@@ -19,10 +19,12 @@ Currently Solved:32
 | 27   | Remove Element                                  | Easy       |
 | 28   | Find the Index of the First Occurrence in a String | Easy    |
 | 33   | Search in Rotated Sorted Array                  | Medium     |
+| 55   | Jump Game                                       | Medium     |
 | 70   | Climbing Stairs                                 | Easy       |
 | 110  | Balanced Binary Tree                            | Easy       |
 | 121  | Best Time to Buy and Sell Stock                 | Easy       | 
 | 125  | Valid Palindrome                                | Easy       | 
+| 138  | Copy List With Random Pointer                   | Medium     | 
 | 141  | Linked List Cycle                               | Easy       |
 | 169  | Majority Element                                | Easy       |
 | 206  | Reverse Linked List                             | Easy       |
